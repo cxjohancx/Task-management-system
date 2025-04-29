@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+
+.headers th{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
